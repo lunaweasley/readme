@@ -1,1 +1,3 @@
-ECHO ist eingeschaltet (ON).
+# Read me
+
+Hello!
